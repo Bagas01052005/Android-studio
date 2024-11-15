@@ -1,4 +1,1 @@
-# Android-studio 
-
-# Moke up 
-! [gambar].Moke up.jpg
+# Android-studio
